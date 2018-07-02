@@ -1,0 +1,6 @@
+C:\Projects\AttendanceMailer\AttendanceMailer\bin\Debug\AttendanceMailer.exe.config
+C:\Projects\AttendanceMailer\AttendanceMailer\bin\Debug\AttendanceMailer.exe
+C:\Projects\AttendanceMailer\AttendanceMailer\bin\Debug\AttendanceMailer.pdb
+C:\Projects\AttendanceMailer\AttendanceMailer\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\AttendanceMailer\AttendanceMailer\obj\Debug\AttendanceMailer.exe
+C:\Projects\AttendanceMailer\AttendanceMailer\obj\Debug\AttendanceMailer.pdb
